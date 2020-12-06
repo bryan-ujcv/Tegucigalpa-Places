@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587369531860",
+    "project_id": "tegucigalpa-places",
+    "storage_bucket": "tegucigalpa-places.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587369531860:android:ae36adb3e40b0607b2ee41",
+        "android_client_info": {
+          "package_name": "TegucigalpaPlaces.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587369531860-qbrecr01kocukjol71n204p0jbhvp02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fdQF6n-rn9T4DLLvNMLFCRgWqMAGP0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587369531860-qbrecr01kocukjol71n204p0jbhvp02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
